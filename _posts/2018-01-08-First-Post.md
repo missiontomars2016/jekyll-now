@@ -1,11 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: Mission to Mars
 ---
 
 Testing testing mic one two
-
-#Mission to Mars  
 
 ###Taking you out of this world.
 
